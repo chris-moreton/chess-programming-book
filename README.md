@@ -1,5 +1,7 @@
 # Fundamentals of Chess Programming
 
+This is a work in progress. This book was generated with the assistance of AI and is in the process of being proof-read and improved.
+
 A comprehensive guide to building a chess engine from scratch.
 
 ## About This Book
